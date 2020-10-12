@@ -31,4 +31,6 @@
 
 Þegar ágætlega miklum kóða er breytt eða mjög miklar breytingar hafa átt sér stað. Mér finnst t.d. að það þurfi ekki að committa þegar aðeins einni línu hefur verið breytt nema að sú lína sé mjög mikilvæg.
 
+## Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
 
+Working directory er þar sem þú vinnur í kóðanum þínum og enginn getur séð hvað þú hefur gert, staging area er þegar þú bætir skrám við repositoryið en hefur ekki ennþá sent þau í það (sem þú myndir gera með git commit)
