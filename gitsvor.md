@@ -19,4 +19,7 @@
 2. git checkout - Ferðast milli greina (branches) í repositoryinu. Oft þarf að fara í aðarar greinar til að breyta mismunandi kóða
 3. git branch - Sýnir lista yfir allar local greinar, nothæft þegar þarf að finna réttu greinina til að breyta yfir í.
 
+## Hvað er útgáfustýring (Version Control)?
+
+Útgáfustýring er forrit sem sér um áð stjórna mismunandi útgáfum af forriti án þess að kóðinn sé yfirritaður óvart af öðrum að vinna að sama verkefni
 
