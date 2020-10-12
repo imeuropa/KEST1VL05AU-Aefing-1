@@ -23,3 +23,6 @@
 
 Útgáfustýring er forrit sem sér um áð stjórna mismunandi útgáfum af forriti án þess að kóðinn sé yfirritaður óvart af öðrum að vinna að sama verkefni
 
+## Hverjir eru helstu kostir við að nota GIT?
+
+Það eyðileggur ekki kóðann þinn ef þú gerir einhvað og einhver annar er að fikta í þínu dóti
